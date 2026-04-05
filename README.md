@@ -1,5 +1,5 @@
 # 💫 About Me:
-##Hi! I'm a first-year engineering student exploring software development and technology.<br><br>Currently, I'm learning C++, C, python, web development, and improving my problem-solving skills. I like building projects, trying out new ideas, and learning through practice.<br><br>I'm focused on growing step by step and becoming a better developer every day 🚀
+Hi! I'm a first-year engineering student exploring software development and technology.<br><br>Currently, I'm learning C++, C, python, web development, and improving my problem-solving skills. I like building projects, trying out new ideas, and learning through practice.<br><br>I'm focused on growing step by step and becoming a better developer every day 🚀
 
 
 ## 🌐 Socials:
